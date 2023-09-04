@@ -1,6 +1,6 @@
-# Perfil de [Tu Nombre] 👨‍💻
+# Perfil de Kenny 👨‍💻
 
-¡Hola! Soy [Tu Nombre], un apasionado ingeniero de software con experiencia en [tu área de expertise]. Siempre estoy buscando nuevos desafíos y formas de aprender y crecer en el mundo de la tecnología.
+¡Hola! Soy Kenny, un apasionado ingeniero de software con experiencia en [tu área de expertise]. Siempre estoy buscando nuevos desafíos y formas de aprender y crecer en el mundo de la tecnología.
 
 ## Acerca de Mí 🚀
 
