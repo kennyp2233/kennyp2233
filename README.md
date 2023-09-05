@@ -60,11 +60,11 @@
 - Inteligencia artificial
 - Videojuegos
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=padimaster&show_icons=true&locale=en&layout=compact" alt="kennyp2233" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kennyp2233&show_icons=true&locale=en&layout=compact" alt="kennyp2233" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=padimaster&show_icons=true&locale=en" alt="kennyp2233" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kennyp2233&show_icons=true&locale=en" alt="kennyp2233" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=padimaster&" alt="kennyp2233" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kennyp2233&" alt="kennyp2233" /></p>
 
 ## Contacto 📫
 
