@@ -5,7 +5,7 @@
 ## Acerca de Mí 🚀
 
 - **Profesión:** Ingeniero de Software | Desarrollador Web ⭐⭐⭐⭐⭐
-- **Ubicación:** [Tu ubicación actual] 🌎
+- **Ubicación:** Quito, Ecuador 🌎
 - **Contacto:** [LinkedIn](https://www.linkedin.com/in/tu-perfil-de-linkedin), [GitHub](https://github.com/tu-usuario-de-github)
 
 ## Experiencia Laboral 💼
@@ -31,12 +31,6 @@
 **Escuela Politécnica Nacional, Ecuador** (2020 - 2024)
 
 - Título obtenido: Ingeniero de Software
-- Menciones honoríficas o logros académicos destacados.
-
-## Proyectos Destacados 🚀
-
-- [Proyecto 1](Enlace al Proyecto) - Breve descripción del proyecto.
-- [Proyecto 2](Enlace al Proyecto) - Breve descripción del proyecto.
 
 ## Habilidades 🔧
 
@@ -45,10 +39,6 @@
 - Bases de Datos: MySQL, MongoDB
 - Herramientas: Git, VS Code
 
-## Certificaciones 📜
-
-- [Certificado 1](Enlace al Certificado) - Fecha de obtención.
-- [Certificado 2](Enlace al Certificado) - Fecha de obtención.
 
 ## Idiomas 🌐
 
