@@ -43,7 +43,7 @@
 ## Idiomas 🌐
 
 - Español - Nativo
-- Inglés - Avanzado
+- Inglés - Conversacional
 
 ## Intereses Personales 🌟
 
