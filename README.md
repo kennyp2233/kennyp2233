@@ -10,7 +10,7 @@ Me encanta tomar ideas y convertirlas en productos reales, desde el backend en�
 ## Experiencia
 
 ### Full Stack Developer · Experts Handling Cargo S.A.  
-*2022 – hoy*  
+*2022 – 2024*  
 - Rediseñé la landing page y su experiencia de usuario  
 - Construí un backend escalable para la gestión de guías SENAE  
 - Añadí autenticación JWT y mejores prácticas de seguridad  
