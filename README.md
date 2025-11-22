@@ -1,71 +1,94 @@
-# 👋 Hola, soy Kenny Pinchao  
+<h1 align="center">Hi 👋, I'm Kenny Pinchao</h1>
+<h3 align="center">Full Stack Developer | Node.js & NestJS Ecosystem Specialist</h3>
 
-**Ingeniero de Software / Desarrollador Full Stack**  
-Quito, Ecuador · Disponible para proyectos freelance
-
-Me encanta tomar ideas y convertirlas en productos reales, desde el backend en Node.js hasta interfaces en React y apps móviles con React Native (Expo).  Disfruto el reto de hacer que todo funcione — y funcione bien — mientras aprendo algo nuevo en el camino.
-
----
-
-## Experiencia
-
-### Full Stack Developer · Experts Handling Cargo S.A.  
-*2022 – 2024*  
-- Rediseñé la landing page y su experiencia de usuario  
-- Construí un backend escalable para la gestión de guías SENAE  
-- Añadí autenticación JWT y mejores prácticas de seguridad  
-- Administré bases de datos con ORMs  
-- Coordiné el ciclo completo de desarrollo con el equipo
-
-### Full Stack Freelancer  
-*2023 – hoy*  
-- Apps móviles con React Native + Expo  
-- Plugins a medida para WordPress  
-- Bots en WhatsApp y procesos de scraping en Node.js/Python  
-- Prototipos interactivos para validar ideas rápido
-
-### Frontend Developer · Ethereum Ecuador  
-*Oct 2023*  
-- UI para una DAO en Ethereum, enfocada en mejorar la gobernanza
-
-### Software Developer · Kruger Corp  
-*May – Jun 2023*  
-- Automatización de reservas de almuerzos con códigos QR  
-- Panel administrativo para menús dinámicos  
-- Limpieza de la interfaz y optimización de imágenes
+<p align="center">
+  Based in <b>Quito, Ecuador</b> 🇪🇨
+  <br>
+  <a href="https://www.linkedin.com/in/kenny-p-j">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="mailto:kennypinchao@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=microsoftoutlook" alt="Email">
+  </a>
+</p>
 
 ---
 
-## Educación
+### 👨‍💻 About Me
 
-- **Ingeniería de Software**, Escuela Politécnica Nacional (2021 – hoy)  
-- **Smart Contracts y Blockchain con Solidity** (Udemy, 2023)
+I am a **Full Stack Developer** with a strong emphasis on **Backend Architecture**. I specialize in designing clean, modular, and scalable systems using **SOLID principles, DDD, and Clean Architecture**.
 
----
-
-## Stack favorito
-
-- **Frontend:** React, Next.js  
-- **Backend:** Node.js, Express, NestJS  
-- **Móvil:** React Native (Expo)  
-- **Bases de datos:** PostgreSQL, MongoDB, MySQL  
-- **DevOps:** Docker, GitHub Actions, Nginx  
-- **Lenguajes:** JavaScript/TypeScript, Python, Java  
-
-También tengo experiencia en seguridad (JWT, hashing, Nmap) y en automatización con bots y scraping.
+* 🔭 I’m currently working as **Tech Lead** at a Startup and delivering Freelance solutions.
+* 💡 I excel at optimizing performance using **Redis** (caching, queues, workers).
+* 📱 I build end-to-end solutions integrating **React, Next.js, and React Native**.
+* ⚡ **Core Focus:** Robust APIs, Event-Driven Architecture, and Database Optimization.
 
 ---
 
-## Idiomas
+### 🛠️ Tech Stack & Tools
 
-- Español (nativo)  
-- Inglés (intermedio — B1)
+#### Backend & Architecture
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
+
+#### Frontend & Mobile
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
+
+#### Database & DevOps
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-## Un poco más de mí
+### 💼 Professional Experience
 
-Fuera del código me gusta experimentar con IA, blockchain y, cuando queda tiempo, desarrollar pequeños videojuegos.  
-Si tienes una idea interesante o simplemente quieres charlar de tecnología, ¡escríbeme!
+**🚀 Tech Lead & Developer @ Khannda (Startup)**
+*(2023 - Present)*
+* Leading the development of a modular backend using **NestJS + Prisma** for production systems.
+* Integrating secure authentication pipelines and external data services.
 
-[LinkedIn](https://www.linkedin.com/in/kenny-pinchao-54543825b/) · [GitHub](https://github.com/kennyp2233)
+**💻 Full Stack Freelancer**
+*(2023 - Present)*
+* Building scalable APIs applying **DDD** and implementing **Redis** for caching and background workers.
+* Developing automated **Cron Jobs** and scraping scripts with Python.
+* Creating mobile and web apps with **React Native** and **Next.js**.
+
+**🏢 Software Developer @ Experts Handling Cargo S.A.**
+*(2022 - 2025)*
+* Developed a corporate backend with **NestJS**, implementing **RBAC, JWT**, and centralized logging.
+* Optimized complex queries for **Oracle/MySQL** and migrated legacy systems to modular architectures.
+* Built a mobile hours-control module using **React Native**.
+
+---
+
+### 🧩 Featured Projects
+
+#### 🎮 TikTok Live Interactive Game (MVP)
+*Real-time backend architecture handling high concurrency.*
+* **Tech:** Socket.IO, Express, Redis (Queues/Workers).
+* **Key Features:** Live event processing, real-time user interaction, and robust JWT security.
+
+#### 🏫 School Collection Management System
+*End-to-end financial management solution.*
+* **Tech:** NestJS (API), Prisma ORM, React Native (Mobile App).
+* **Key Features:** Automated payment tracking and administrative dashboards.
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kennyp2233&show_icons=true&theme=tokyonight&hide_border=true" alt="Kenny's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennyp2233&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
